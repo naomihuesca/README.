@@ -52,9 +52,10 @@ $$
 \begin{equation}
 \begin{matrix}
 {Acción\:(pedido)\\Estado\:de\:la\:\\naturaleza\:(demanda)} & {a_1 \\ 100} & {a_2 \\ 200} & {a_3\\300} \\
-{\theta_1\:=\:100} & \$2,000 & \$0     & \$-1,500 \\
+ & \$2,000 & \$0     & \$-1,500 \\
 {\theta_2\:=\:150} & \$1,750 & \$3,000 & \$1,500 \\
 {\theta_3\:=\:200} & \$1,500 & \$6,000 & \$4,500
 \end{matrix}
 \end{equation} 
 $$
+{\theta_1\:=\:100}
